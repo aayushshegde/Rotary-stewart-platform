@@ -9,3 +9,5 @@ We dont need to rotate a full circle for the stewart platform, a semi circular m
 <img width="279" height="400" alt="Mechanism_1" src="https://github.com/user-attachments/assets/e9db6596-a2c1-44ab-aa5a-a31910a9cfe9" />
 
 Joint 2, is where we can use a spherical joint to provide an additional degree of freedom (DOF).
+
+The link to the partially finished project is attached: https://youtube.com/shorts/WWJ4zcO-qe4?si=DjOBVE6rLVV45Oby
